@@ -135,6 +135,10 @@ f(
   superSuperSuperSuperSuperSuperSuperSuperSuperSuperSuperSuperSuperSuperLong,...args
 );
 
+f(
+  superSuper.SuperSuper.SuperSuper.SuperSuper.SuperSuper.SuperSuper.SuperSuperLong.Object,...args
+);
+
 it(
 
   "does something really long and complicated so I have to write a very long name for the test",
